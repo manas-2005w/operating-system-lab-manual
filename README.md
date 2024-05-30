@@ -1,1 +1,1 @@
-# operating-system-lab-manual
+# OS-LabManual-2024
