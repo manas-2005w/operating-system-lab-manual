@@ -1,1 +1,1 @@
-# operating-system-lab-manual
+# OperatingSystemLabManual
